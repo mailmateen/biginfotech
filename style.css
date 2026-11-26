@@ -33081,6 +33081,5 @@ label {
 .main-header .header-upper .info-box{display:flex;align-items:center}
 .main-header .header-upper .info-box li{align-items:center;margin-right:28px}
 .main-header .header-upper .info-box li.btn-box .theme-btn-one{padding:12px 28px 13px 28px;white-space:nowrap}
-.main-header .header-upper .info-box li .wa-channel{display:flex;align-items:center;font-size:15px;font-weight:700;color:#25d366;white-space:nowrap}
-.main-header .header-upper .info-box li .wa-channel:hover{color:#128c7e}
-.main-header .header-upper .info-box li .wa-channel i{font-family:"Font Awesome 5 Brands";font-weight:400;color:#25d366;font-size:24px;line-height:26px;margin-right:6px}
+.main-header .header-upper .info-box li .wa-channel{display:flex;align-items:center;white-space:nowrap}
+.main-header .header-upper .info-box li .wa-channel i{font-family:"Font Awesome 5 Brands";font-weight:400}
